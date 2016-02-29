@@ -10,12 +10,7 @@
     standardScrollElements: "",
     before:function() {},
     after:function(e) {
-      console.log(e);
         if(e == "9") {
-            setTimeout(function(){
-              var img_src = $('.switch__img').data('switch');
-              $('.switch__img').attr('src', img_src);
-            }, 500)
 
         }
     },
@@ -23,7 +18,7 @@
     afterRender:function() {}
   });
 
-  window.sr = ScrollReveal();
+  // window.sr = ScrollReveal();
 
     var revealOptions = {
       delay    : 200,
