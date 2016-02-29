@@ -6,7 +6,8 @@
     "modernizr": "~2.8.3",
     "iscroll": "^5.1.3",
     "Scrollify": "^0.1.12",
-    "scrollreveal": "^3.0.9"
+    "scrollreveal": "^3.0.9",
+    "preloadjs": "*"
   },
   "overrides": {
     "bootstrap-sass": {

@@ -4,7 +4,7 @@
     section : ".screen",
     sectionName : "name",
     easing: "easeOutExpo",
-    scrollSpeed: 1100,
+    // scrollSpeed: 1100,
     offset : 0,
     scrollbars: true,
     standardScrollElements: "",
